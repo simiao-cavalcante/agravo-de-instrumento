@@ -1,0 +1,15 @@
+{
+  "name": "gerador-agravo-de-instrumento",
+  "version": "1.0.0",
+  "description": "Gera minutas de Agravo de Instrumento em .docx no padrao das pecas municipais.",
+  "main": "gerar_agravo_instrumento.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["docx", "juridico", "agravo-de-instrumento"],
+  "author": "Manoel Simiao Cavalcante Neto",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
